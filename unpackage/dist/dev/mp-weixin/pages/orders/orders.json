@@ -1,0 +1,8 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "top": "/components/top/top",
+    "recomment": "/components/my/recomment/recomment",
+    "order": "/components/orders/order"
+  }
+}

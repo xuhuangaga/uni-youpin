@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "login": "/components/h5login/h5login"
+  },
+  "component": true
+}

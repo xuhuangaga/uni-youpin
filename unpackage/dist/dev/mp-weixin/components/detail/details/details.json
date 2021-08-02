@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "banner": "/components/detail/banner/banner",
+    "chioce": "/components/detail/chioce/chioce"
+  }
+}

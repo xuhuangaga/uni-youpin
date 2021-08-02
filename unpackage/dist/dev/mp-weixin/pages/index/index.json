@@ -1,0 +1,15 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "top": "/components/top/top",
+    "u-notice-bar": "/node-modules/uview-ui/components/u-notice-bar/u-notice-bar",
+    "banner": "/components/home/banner/banner",
+    "activity": "/components/home/activity/activity",
+    "goods": "/components/home/goods/goods",
+    "crowd": "/components/home/crowd/crowd",
+    "hot": "/components/home/hot/hot",
+    "limit": "/components/home/timelimit/timelimit",
+    "sale": "/components/home/sale/sale",
+    "tab": "/components/home/tabs/tabs"
+  }
+}

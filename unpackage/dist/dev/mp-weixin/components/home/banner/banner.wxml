@@ -1,0 +1,1 @@
+<view class="p-10 swiper data-v-5364e98c"><view class="data-v-5364e98c"><u-swiper vue-id="193745e8-1" list="{{bannerList}}" data-event-opts="{{[['^click',[['click']]]]}}" bind:click="__e" class="data-v-5364e98c" bind:__l="__l"></u-swiper></view></view>

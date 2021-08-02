@@ -1,0 +1,1 @@
+<view class="data-v-3e159eb4"><top vue-id="3db16520-1" isNavbar="{{true}}" isBack="{{true}}" title=" " borderBottom="{{borderBottom}}" class="data-v-3e159eb4" bind:__l="__l"></top><view class="bc-e data-v-3e159eb4"><block wx:if="{{info}}"><detail-com vue-id="3db16520-2" info="{{info}}" class="data-v-3e159eb4" bind:__l="__l"></detail-com></block></view></view>

@@ -1,0 +1,1 @@
+<view class="flex-j-around a-center p-10 data-v-254b4e30"><block wx:for="{{proList}}" wx:for-item="item" wx:for-index="index" wx:key="index"><image class="g-pic data-v-254b4e30" src="{{item.item.pic_url}}" data-event-opts="{{[['tap',[['jump',['$0'],[[['proList','',index,'item.jump_url']]]]]]]}}" bindtap="__e"></image></block></view>

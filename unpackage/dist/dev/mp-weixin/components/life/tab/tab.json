@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "tab-u-waterfall-right": "/components/life/tab/tab-u-waterfall-right",
+    "u-swiper": "/node-modules/uview-ui/components/u-swiper/u-swiper",
+    "u-waterfall": "/node-modules/uview-ui/components/u-waterfall/u-waterfall",
+    "u-lazy-load": "/node-modules/uview-ui/components/u-lazy-load/u-lazy-load"
+  },
+  "component": true
+}

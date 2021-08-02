@@ -1,0 +1,9 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "top": "/components/top/top",
+    "recomment": "/components/my/recomment/recomment",
+    "nologin": "/components/carts/nologin/nologin",
+    "havedata": "/components/carts/datalist/datalist"
+  }
+}
